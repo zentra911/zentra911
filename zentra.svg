@@ -197,7 +197,7 @@
   </g>
 
   <g class="rise" style="animation-delay:.06s">
-    <text x="34" y="62" font-size="22" font-weight="700" fill="#FFFFFF">Zentra</text>
+    <text x="34" y="62" font-size="22" font-weight="700" fill="#FFFFFF">Welcome i'm</text>
   </g>
 
   <g class="rise" style="animation-delay:.12s">
@@ -276,6 +276,7 @@
         <circle cx="246" cy="48" r="7" fill="#FFFFFF" fill-opacity=".35"/>
         <text x="28" y="54" font-size="17" font-weight="700" fill="#062A33" fill-opacity=".8" letter-spacing="1.6">BASED IN</text>
         <text x="26" y="178" font-size="84" font-weight="900" fill="#062A33" letter-spacing="-3">Iraq</text>
+        <text x="26" y="200" font-size="22" font-weight="500" fill="#062A33" letter-spacing="-3">Baghdad</text>
       </g>
     </g>
     <rect y="346" width="290" height="214" rx="28" fill="none" stroke="#FFFFFF" stroke-opacity=".16"/>
@@ -321,7 +322,7 @@
       <text x="34" y="92" font-size="42" font-weight="900" fill="#0D0B1E" letter-spacing="-1.4">Vibe Codeing Boy</text>
       <text x="34" y="146" font-size="46" class="serif" fill="#D61FBF">from Iraq.</text>
       <text x="34" y="188" font-size="18" fill="#0D0B1E" fill-opacity=".68">My tools are Node.js, discord.js, Express and Git,</text>
-      <text x="34" y="212" font-size="18" fill="#0D0B1E" fill-opacity=".68">all written in vscodium.</text>
+      <text x="34" y="212" font-size="18" fill="#0D0B1E" fill-opacity=".68">all written in Vscodium.</text>
     </g>
     <rect y="576" width="600" height="240" rx="28" fill="none" stroke="#0D0B1E" stroke-opacity=".06"/>
   </g>
@@ -437,7 +438,7 @@
       <text x="30" y="32" font-size="12" font-weight="700" fill="#FFFFFF" fill-opacity=".85" letter-spacing="1.6">EDITOR</text>
       <rect x="30" y="46" width="48" height="48" rx="14" fill="#FFFFFF"/>
       <text x="54" y="80" font-size="20" font-weight="900" fill="#1F9CF0" text-anchor="middle">VS</text>
-      <text x="92" y="78" font-size="26" font-weight="800" fill="#FFFFFF">vscodium</text>
+      <text x="92" y="78" font-size="26" font-weight="800" fill="#FFFFFF">Vscodium</text>
     </g>
     <rect x="616" y="1201" width="384" height="107" rx="28" fill="none" stroke="#FFFFFF" stroke-opacity=".2"/>
   </g>
@@ -447,8 +448,8 @@
       <rect width="1000" height="64" rx="32" fill="url(#gRibbon)"/>
       <g clip-path="url(#clipRibbon)">
         <g class="marquee">
-          <text x="0" y="42" font-size="23" font-weight="800" fill="#0D0B1E" textLength="1800" lengthAdjust="spacing" xml:space="preserve">JavaScript  •  C++  •  Lua  •  Python  •  HTML5  •  CSS3  •  Node.js  •  discord.js  •  Express  •  Git  •  MongoDB  •  vscodium  •  </text>
-          <text x="1800" y="42" font-size="23" font-weight="800" fill="#0D0B1E" textLength="1800" lengthAdjust="spacing" xml:space="preserve">JavaScript  •  C++  •  Lua  •  Python  •  HTML5  •  CSS3  •  Node.js  •  discord.js  •  Express  •  Git  •  MongoDB  •  vscodium  •  </text>
+          <text x="0" y="42" font-size="23" font-weight="800" fill="#0D0B1E" textLength="1800" lengthAdjust="spacing" xml:space="preserve">JavaScript  •  C++  •  Lua  •  Python  •  HTML5  •  CSS3  •  Node.js  •  discord.js  •  Express  •  Git  •  MongoDB  •  Vscodium  •  </text>
+          <text x="1800" y="42" font-size="23" font-weight="800" fill="#0D0B1E" textLength="1800" lengthAdjust="spacing" xml:space="preserve">JavaScript  •  C++  •  Lua  •  Python  •  HTML5  •  CSS3  •  Node.js  •  discord.js  •  Express  •  Git  •  MongoDB  •  Vscodium  •  </text>
         </g>
       </g>
     </g>
