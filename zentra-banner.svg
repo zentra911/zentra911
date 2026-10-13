@@ -215,7 +215,7 @@
       <text x="34" y="86"  font-size="44" font-weight="900" fill="#0D0B1E">I'm 17 and I write code</text>
       <text x="34" y="140" font-size="48" class="serif" fill="#D61FBF">from Iraq.</text>
       <text x="34" y="184" font-size="19" fill="#0D0B1E" fill-opacity=".75">My tools are Node.js, discord.js, Express and Git,</text>
-      <text x="34" y="210" font-size="19" fill="#0D0B1E" fill-opacity=".75">all written in Visual Studio Code.</text>
+      <text x="34" y="210" font-size="19" fill="#0D0B1E" fill-opacity=".75">all written in vscodium.</text>
     </g>
   </g>
   <g class="rise" style="animation-delay:.72s">
@@ -295,7 +295,7 @@
       <text x="30" y="34" font-size="16" font-weight="700" fill="#FFFFFF" fill-opacity=".85">Editor</text>
       <rect x="30" y="44" width="52" height="52" rx="14" fill="#FFFFFF"/>
       <text x="56" y="79" font-size="24" font-weight="900" fill="#D6336C" text-anchor="middle">VS</text>
-      <text x="96" y="78" font-size="26" font-weight="800" fill="#FFFFFF">Visual Studio Code</text>
+      <text x="96" y="78" font-size="26" font-weight="800" fill="#FFFFFF">vscodium</text>
     </g>
   </g>
   <g class="rise" style="animation-delay:1.56s">
@@ -303,8 +303,8 @@
       <rect width="1000" height="64" rx="32" fill="url(#gRibbon)"/>
       <g clip-path="url(#clipRibbon)">
         <g class="marquee">
-          <text x="0"    y="41" font-size="24" font-weight="800" fill="#0D0B1E" xml:space="preserve" textLength="1300" lengthAdjust="spacing">Visual Studio Code   •   JavaScript   •   C++   •   Lua   •   Python   •   HTML5   •   CSS3   •   </text>
-          <text x="1300" y="41" font-size="24" font-weight="800" fill="#0D0B1E" xml:space="preserve" textLength="1300" lengthAdjust="spacing">Visual Studio Code   •   JavaScript   •   C++   •   Lua   •   Python   •   HTML5   •   CSS3   •   </text>
+          <text x="0"    y="41" font-size="24" font-weight="800" fill="#0D0B1E" xml:space="preserve" textLength="1300" lengthAdjust="spacing">vscodium  •   JavaScript   •   C++   •   Lua   •   Python   •   HTML5   •   CSS3   •   </text>
+          <text x="1300" y="41" font-size="24" font-weight="800" fill="#0D0B1E" xml:space="preserve" textLength="1300" lengthAdjust="spacing">vscodium  •   JavaScript   •   C++   •   Lua   •   Python   •   HTML5   •   CSS3   •   </text>
         </g>
       </g>
     </g>
