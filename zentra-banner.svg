@@ -1,0 +1,285 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 560" width="1000" height="560" role="img" aria-labelledby="svgTitle svgDesc" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYToyMWJkYzM2ZS1mOWM2LTQxMzktOGNkOC0zYTA5MWRjZGM2ZDgAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaATv+6iwR8sZTGLY+LwB3loAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDozMzNjNWFlNy03NjBmLTQ5OTctODViYS1jYzdkZWQ4YjY2M2NscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoEbNd5euIdEYzjO2mmbWrNwAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFgg2K4daZmuc6OSvGpLje+MwF6Kn/q9NVHiupV+cQOawuikZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaE3l74wVX9tq/9KOyU0oNp0AAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCD0naScREadM/yVZZ7Kb2KDSds4Xk88bsGBYYuP3mJaamRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBjGZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjIxYmRjMzZlLWY5YzYtNDEzOS04Y2Q4LTNhMDkxZGNkYzZkOC9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjI4NWIxOTIzLTUyZTYtNGY2NC1iNzEwLTUyYjkyM2QyNGIwZHJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCDYrh1pma5zo5K8akuN74zAXoqf+r01UeK6lX5xA5rC6KJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggl90bpvK9iWWmhDML9p2aNZfdN1MDp4WnQudbXB8z72iiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggRNBTnjbsuNbhMUwYX0dJdgFsLFpffh8iKwLbLCPDaGp0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQKDGOJDXEcYmY/fmP2LMgDcLMSF6Yo5r8FkdM0AovDfuvemRA2UD6bAZ7ievQ1qESvudHU5uabPe7mmMLKEbe6U=</c2pa:manifest></metadata>
+  <title id="svgTitle">Zentra — Developer Profile</title>
+  <desc id="svgDesc">Animated Zentra profile banner: cosmic star, JavaScript, Lua, Python, Iraq and a terminal.</desc>
+
+  <!-- ===================================================== -->
+  <!-- 1) DEFINITIONS: gradients, filters, clips, dot pattern -->
+  <!-- ===================================================== -->
+  <defs>
+    <!-- Gradients -->
+    <radialGradient id="spaceGlow">
+      <stop offset="0"   stop-color="#BCA8F7" stop-opacity=".38"/>
+      <stop offset=".55" stop-color="#7546D8" stop-opacity=".12"/>
+      <stop offset="1"   stop-color="#1E1530" stop-opacity="0"/>
+    </radialGradient>
+
+    <linearGradient id="orbitGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"   stop-color="#7BE0FF"/>
+      <stop offset="48%"  stop-color="#BCA8F7"/>
+      <stop offset="100%" stop-color="#F245C2"/>
+    </linearGradient>
+
+    <linearGradient id="starGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"   stop-color="#FFFFFF"/>
+      <stop offset="48%"  stop-color="#DCCAFF"/>
+      <stop offset="100%" stop-color="#9870FF"/>
+    </linearGradient>
+
+    <linearGradient id="planetGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"   stop-color="#F1E9FF"/>
+      <stop offset="100%" stop-color="#9865FF"/>
+    </linearGradient>
+
+    <!-- Glow filters -->
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+
+    <filter id="softGlow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+
+    <!-- Dot grid pattern (replaces 32 hand-placed circles) -->
+    <pattern id="dots" x="420" y="18" width="20" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="10" cy="10" r="2.4" fill="#FFF3E0"/>
+    </pattern>
+
+    <!-- Panel clip shapes (renamed so they never clash with other IDs) -->
+    <clipPath id="clipName">  <rect width="600" height="330" rx="28"/></clipPath>
+    <clipPath id="clipSpace"> <rect x="616" width="384" height="330" rx="28"/></clipPath>
+    <clipPath id="clipIraq">  <rect y="346" width="290" height="214" rx="28"/></clipPath>
+    <clipPath id="clipAge">   <rect x="306" y="346" width="200" height="214" rx="28"/></clipPath>
+    <clipPath id="clipTerm">  <rect x="522" y="346" width="478" height="214" rx="28"/></clipPath>
+
+    <!-- ===================================================== -->
+    <!-- 2) STYLES & ANIMATIONS                                -->
+    <!-- ===================================================== -->
+    <style>
+      text { font-family: 'Inter', 'SF Pro Display', 'Segoe UI', Roboto, Arial, sans-serif; }
+      .serif { font-family: Georgia, 'Times New Roman', serif; font-style: italic; }
+      .mono  { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+
+      /* Panels fade/slide in one after another */
+      .rise { animation: rise .8s cubic-bezier(.2,.8,.2,1) backwards; }
+      @keyframes rise {
+        from { opacity: 0; transform: translateY(14px); }
+        to   { opacity: 1; transform: translateY(0); }
+      }
+
+      /* "I write ..." rotating words (3 words x 3s = 9s loop) */
+      .word { font-size: 36px; font-weight: 800; fill: #FFF3E0; opacity: 0; animation: slot 9s linear infinite; }
+      .w0 { animation-delay: 0s; }
+      .w1 { animation-delay: 3s; }
+      .w2 { animation-delay: 6s; }
+      @keyframes slot {
+        0%      { opacity: 0; }
+        2%      { opacity: 1; }
+        30%     { opacity: 1; }
+        33.333% { opacity: 0; }
+        100%    { opacity: 0; }
+      }
+
+      /* Cosmic panel */
+      .cosmic-float { animation: cosmicFloat 5s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+      @keyframes cosmicFloat { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-8px); } }
+
+      .orbit-spin { animation: orbitSpin 14s linear infinite; transform-origin: 808px 165px; }
+      @keyframes orbitSpin { to { transform: rotate(360deg); } }
+
+      .orbit-reverse { animation: orbitReverse 20s linear infinite; transform-origin: 808px 165px; }
+      @keyframes orbitReverse { to { transform: rotate(-360deg); } }
+
+      .star-pulse { animation: starPulse 3s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+      @keyframes starPulse { 0%,100% { opacity: .85; transform: scale(1); } 50% { opacity: 1; transform: scale(1.07); } }
+
+      .planet-bob { animation: planetBob 4s ease-in-out infinite; }
+      @keyframes planetBob { 0%,100% { transform: translate(0,0); } 50% { transform: translate(3px,-5px); } }
+
+      .twinkle { transform-box: fill-box; transform-origin: center; animation: twinkle 2.5s ease-in-out infinite; }
+      .twinkle-delay { animation-delay: 1.2s; }
+      @keyframes twinkle { 0%,100% { opacity: .3; transform: scale(.7); } 50% { opacity: 1; transform: scale(1.25); } }
+
+      /* Terminal typing effect */
+      .reveal { transform-box: fill-box; transform-origin: left center; animation: unfurl .9s steps(18, end) backwards; }
+      @keyframes unfurl { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+
+      .caret { animation: blink 1s steps(2, start) infinite; }
+      @keyframes blink { to { visibility: hidden; } }
+
+      /* Accessibility: stop motion if the viewer prefers it */
+      @media (prefers-reduced-motion: reduce) {
+        * { animation: none !important; }
+        .word { opacity: 0; }
+        .w0   { opacity: 1; }
+      }
+    </style>
+  </defs>
+
+  <!-- ===================================================== -->
+  <!-- 3) PANEL: NAME (top-left, red)                        -->
+  <!-- ===================================================== -->
+  <g class="rise" style="animation-delay:0s">
+    <rect width="600" height="330" rx="28" fill="#F2452E"/>
+
+    <g clip-path="url(#clipName)">
+      <!-- Background rings -->
+      <circle cx="610" cy="360" r="250" fill="#D63A25"/>
+      <circle cx="610" cy="360" r="180" fill="#F2452E"/>
+      <circle cx="610" cy="360" r="110" fill="#D63A25"/>
+
+      <!-- Dot grid (8 columns x 4 rows) -->
+      <rect x="420" y="18" width="160" height="80" fill="url(#dots)" opacity=".35"/>
+
+      <!-- Text -->
+      <text x="34"  y="62"  font-size="22" font-weight="700" fill="#FFF3E0">zentra</text>
+      <text x="28"  y="190" font-size="132" font-weight="900" fill="#FFF3E0" letter-spacing="-6">Zentra</text>
+
+      <text x="34"  y="272" font-size="36" class="serif" fill="#FFF3E0">I write</text>
+      <text x="172" y="272" class="word w0">JavaScript</text>
+      <text x="172" y="272" class="word w1">Lua</text>
+      <text x="172" y="272" class="word w2">Python</text>
+    </g>
+  </g>
+
+  <!-- ===================================================== -->
+  <!-- 4) PANEL: COSMIC STAR (top-right, purple)             -->
+  <!-- ===================================================== -->
+  <g class="rise" style="animation-delay:.12s">
+    <rect x="616" width="384" height="330" rx="28" fill="#1E1530"/>
+
+    <g clip-path="url(#clipSpace)">
+      <circle cx="808" cy="165" r="185" fill="url(#spaceGlow)"/>
+
+      <!-- Static orbit rings -->
+      <circle cx="808" cy="165" r="150" fill="none" stroke="#8665E8" stroke-opacity=".22" stroke-width="2"/>
+      <circle cx="808" cy="165" r="112" fill="none" stroke="#BCA8F7" stroke-opacity=".18" stroke-width="2"/>
+      <circle cx="808" cy="165" r="80"  fill="none" stroke="#BCA8F7" stroke-opacity=".09" stroke-width="1.5"/>
+
+      <!-- Stars -->
+      <g fill="#FFF3FF">
+        <path class="twinkle" d="M700 65 l2.5 6 6 2.5 -6 2.5 -2.5 6 -2.5 -6 -6 -2.5 6 -2.5Z"/>
+        <path class="twinkle twinkle-delay" d="M927 110 l2 5 5 2 -5 2 -2 5 -2 -5 -5 -2 5 -2Z"/>
+        <path class="twinkle" d="M750 244 l1.8 4 4 1.8 -4 1.8 -1.8 4 -1.8 -4 -4 -1.8 4 -1.8Z"/>
+        <path class="twinkle twinkle-delay" d="M907 225 l2 5 5 2 -5 2 -2 5 -2 -5 -5 -2 5 -2Z"/>
+        <circle cx="672" cy="123" r="1.5" opacity=".7"/>
+        <circle cx="948" cy="70"  r="1.5" opacity=".7"/>
+        <circle cx="687" cy="270" r="1.5" opacity=".7"/>
+        <circle cx="963" cy="180" r="1.5" opacity=".7"/>
+        <circle cx="865" cy="45"  r="1.5" opacity=".7"/>
+        <circle cx="834" cy="286" r="1.5" opacity=".7"/>
+      </g>
+
+      <!-- Small decorative planets -->
+      <circle cx="678" cy="62"  r="6"   fill="#F6D86B"/>
+      <circle cx="946" cy="274" r="8"   fill="#9865FF"/>
+      <circle cx="939" cy="55"  r="4.5" fill="#7BE0A8"/>
+
+      <!-- Faint reverse orbit -->
+      <g class="orbit-reverse">
+        <ellipse cx="808" cy="165" rx="106" ry="40" fill="none" stroke="#7BE0FF" stroke-opacity=".12" stroke-width="1.5"/>
+      </g>
+
+      <!-- Glowing orbit + orbiting planet -->
+      <g class="orbit-spin">
+        <ellipse cx="808" cy="165" rx="106" ry="40" fill="none" stroke="url(#orbitGradient)"
+                 stroke-width="5.5" stroke-linecap="round" stroke-dasharray="300 370" filter="url(#softGlow)"/>
+        <circle cx="914" cy="165" r="10" fill="url(#planetGradient)" filter="url(#softGlow)"/>
+      </g>
+
+      <!-- Central star + satellite -->
+      <g class="cosmic-float">
+        <circle cx="808" cy="165" r="63" fill="#A88AFF" opacity=".08" filter="url(#glow)"/>
+
+        <g class="star-pulse" filter="url(#softGlow)">
+          <path d="M808 105 L820 151 L868 165 L820 179 L808 225 L796 179 L748 165 L796 151 Z" fill="url(#starGradient)"/>
+          <path d="M808 105 L808 165 L748 165 L796 151 Z"  fill="#FFFFFF" opacity=".45"/>
+          <path d="M808 165 L868 165 L820 179 L808 225 Z"  fill="#8E6AEF" opacity=".48"/>
+          <path d="M808 105 L820 151 L808 165 L796 151 Z"  fill="#FFFFFF" opacity=".72"/>
+        </g>
+
+        <g class="planet-bob">
+          <circle cx="870" cy="157" r="11" fill="url(#planetGradient)" filter="url(#softGlow)"/>
+          <ellipse cx="867" cy="153" rx="3.5" ry="2.2" fill="#FFFFFF" opacity=".55"/>
+        </g>
+      </g>
+    </g>
+  </g>
+
+  <!-- ===================================================== -->
+  <!-- 5) PANEL: LOCATION (bottom-left, yellow)              -->
+  <!-- ===================================================== -->
+  <g class="rise" style="animation-delay:.24s">
+    <rect y="346" width="290" height="214" rx="28" fill="#F6D86B"/>
+
+    <g clip-path="url(#clipIraq)">
+      <g transform="translate(0 346)">
+        <circle cx="250" cy="48" r="60" fill="none" stroke="#1A0F12" stroke-opacity=".18" stroke-width="2"/>
+        <circle cx="250" cy="48" r="38" fill="none" stroke="#1A0F12" stroke-opacity=".18" stroke-width="2"/>
+        <circle cx="250" cy="48" r="8"  fill="#F2452E"/>
+
+        <text x="28" y="52"  font-size="18" font-weight="700" fill="#1A0F12" fill-opacity=".8">Based in</text>
+        <text x="26" y="178" font-size="84" font-weight="900" fill="#1A0F12" letter-spacing="-3">Iraq</text>
+      </g>
+    </g>
+  </g>
+
+  <!-- ===================================================== -->
+  <!-- 6) PANEL: AGE (bottom-middle, lavender)               -->
+  <!-- ===================================================== -->
+  <g class="rise" style="animation-delay:.36s">
+    <rect x="306" y="346" width="200" height="214" rx="28" fill="#BCA8F7"/>
+
+    <g clip-path="url(#clipAge)">
+      <g transform="translate(306 346)">
+        <text x="28" y="52"  font-size="18" font-weight="700" fill="#1E1530" fill-opacity=".85">Age</text>
+        <text x="24" y="178" font-size="122" font-weight="900" fill="#1E1530" letter-spacing="-6">17</text>
+      </g>
+    </g>
+  </g>
+
+  <!-- ===================================================== -->
+  <!-- 7) PANEL: TERMINAL (bottom-right, dark)               -->
+  <!-- ===================================================== -->
+  <g class="rise" style="animation-delay:.48s">
+    <rect x="522" y="346" width="478" height="214" rx="28" fill="#0F0A18"/>
+
+    <g clip-path="url(#clipTerm)">
+      <g transform="translate(522 346)">
+        <!-- Window buttons -->
+        <circle cx="40" cy="36" r="6.5" fill="#F2452E"/>
+        <circle cx="62" cy="36" r="6.5" fill="#F6D86B"/>
+        <circle cx="84" cy="36" r="6.5" fill="#7BE0A8"/>
+
+        <!-- Line 1 -->
+        <clipPath id="typeLine1">
+          <rect class="reveal" style="animation-delay:.8s;animation-timing-function:steps(8,end)" x="32" y="62" width="106" height="30"/>
+        </clipPath>
+        <text class="mono" x="32" y="84" font-size="20" fill="#FFF3E0" clip-path="url(#typeLine1)">$ whoami</text>
+
+        <!-- Line 2 -->
+        <clipPath id="typeLine2">
+          <rect class="reveal" style="animation-delay:1.5s;animation-timing-function:steps(5,end)" x="32" y="92" width="69" height="30"/>
+        </clipPath>
+        <text class="mono" x="32" y="114" font-size="20" fill="#F6D86B" clip-path="url(#typeLine2)">zentra</text>
+
+        <!-- Line 3 -->
+        <clipPath id="typeLine3">
+          <rect class="reveal" style="animation-delay:2.2s;animation-timing-function:steps(15,end)" x="32" y="122" width="191" height="30"/>
+        </clipPath>
+        <text class="mono" x="32" y="144" font-size="20" fill="#FFF3E0" clip-path="url(#typeLine3)">$ ls languages/</text>
+
+        <!-- Line 4 -->
+        <clipPath id="typeLine4">
+          <rect class="reveal" style="animation-delay:3.1s;animation-timing-function:steps(29,end)" x="32" y="152" width="362" height="30"/>
+        </clipPath>
+        <text class="mono" x="32" y="174" font-size="20" fill="#7BE0A8" clip-path="url(#typeLine4)">javascript lua python</text>
+
+        <!-- Prompt + blinking cursor -->
+        <text class="mono" x="32" y="204" font-size="20" fill="#FFF3E0">$</text>
+        <rect class="caret" x="52" y="187" width="11" height="22" fill="#FFF3E0"/>
+      </g>
+    </g>
+  </g>
+</svg>
