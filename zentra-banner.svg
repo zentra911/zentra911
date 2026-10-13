@@ -1,332 +1,478 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1574" width="1000" height="1574" role="img" aria-labelledby="svgTitle svgDesc" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTpiNzcwYjI1Zi02ZWUyLTRiOGUtYjliMC0xYjdmMDNjNzc4MWUAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaIBTmr02N+WB/edJZfHzIekAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDoyY2U2ZjI1Mi03ZGY0LTRmMzItYWFiYi0zY2VhYWVlOGMxNDVscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNov+IKTeT0Fc0seflOfVOXSgAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFgg/De1KL5KDOlTVsJUOwXOTFdFGJkba9a95BWFFW4k6VikZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaE39918uHyJOaEHteE6vIywAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCCztFZMKV40EcIlwt6cBphOEw8MJr2GxpMeUP+Rm6McmmRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBjIZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmI3NzBiMjVmLTZlZTItNGI4ZS1iOWIwLTFiN2YwM2M3NzgxZS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjQ5M2RmZDk2LTQ1OTItNGQ3OS1iZDg5LTczZDAwOTk0OWM4NXJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCD8N7UovkoM6VNWwlQ7Bc5MV0UYmRtr1r3kFYUVbiTpWKJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggrfl9Br3MzYQBwujjQPRZZ7hxErNyO5+QplCiebWMn3iiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFgggHTn4W+xq0qgi4hJ4shr/KX4mSFJ0uutxpdCA/FBw5V0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQO13GqP/DsbL+Z6bh7CVNM8w6hXyoz4xtdZFP9bYpy0Zi45IqNyCNijg0Ume7zUibIdKxG+by1X4nA/Rl560AGU=</c2pa:manifest></metadata>
-  <title id="svgTitle">Zentra — Developer Profile</title>
-  <desc id="svgDesc">Animated Zentra profile banner: cosmic star, JavaScript, Lua, Python, Iraq and a terminal.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1574" width="1000" height="1574" role="img" aria-labelledby="svgTitle svgDesc">
+  <title id="svgTitle">Developer Profile</title>
+  <desc id="svgDesc">Animated developer profile: 17 years old, based in Iraq, writing JavaScript, C++, Lua and Python.</desc>
+
   <defs>
-    <radialGradient id="spaceGlow">
-      <stop offset="0"   stop-color="#BCA8F7" stop-opacity=".38"/>
-      <stop offset=".55" stop-color="#7546D8" stop-opacity=".12"/>
-      <stop offset="1"   stop-color="#1E1530" stop-opacity="0"/>
+    <linearGradient id="gName" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#4B22D6"/>
+      <stop offset=".5" stop-color="#8B5CF6"/>
+      <stop offset="1" stop-color="#E945C8"/>
+    </linearGradient>
+    <radialGradient id="nameSheen" cx=".85" cy="1.2" r="1">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity=".30"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
     </radialGradient>
-    <linearGradient id="orbitGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%"   stop-color="#7BE0FF"/>
-      <stop offset="48%"  stop-color="#BCA8F7"/>
-      <stop offset="100%" stop-color="#F245C2"/>
+    <radialGradient id="nameHalo" cx=".18" cy=".1" r=".7">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </radialGradient>
+
+    <linearGradient id="gIraq" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2DD4BF"/>
+      <stop offset="1" stop-color="#38BDF8"/>
     </linearGradient>
-    <linearGradient id="starGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%"   stop-color="#FFFFFF"/>
-      <stop offset="48%"  stop-color="#DCCAFF"/>
-      <stop offset="100%" stop-color="#9870FF"/>
+    <linearGradient id="gAge" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FDA4D8"/>
+      <stop offset="1" stop-color="#FB7185"/>
     </linearGradient>
-    <linearGradient id="planetGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%"   stop-color="#F1E9FF"/>
-      <stop offset="100%" stop-color="#9865FF"/>
+    <linearGradient id="gStat1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0F9D8A"/>
+      <stop offset="1" stop-color="#0E7490"/>
     </linearGradient>
-    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
-      <feGaussianBlur stdDeviation="8" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    <linearGradient id="gStat2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#C4B5FD"/>
+      <stop offset="1" stop-color="#8E7BFF"/>
+    </linearGradient>
+    <linearGradient id="gLang" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#4338CA"/>
+      <stop offset="1" stop-color="#0EA5E9"/>
+    </linearGradient>
+    <linearGradient id="gWeb" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FDA4D8"/>
+      <stop offset="1" stop-color="#C4B5FD"/>
+    </linearGradient>
+    <linearGradient id="gSun" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FFE066"/>
+      <stop offset="1" stop-color="#FFA94D"/>
+    </linearGradient>
+    <linearGradient id="gCoral" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FF5C93"/>
+      <stop offset="1" stop-color="#FF8A5C"/>
+    </linearGradient>
+    <linearGradient id="gRibbon" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#5EEAD4"/>
+      <stop offset=".5" stop-color="#A78BFA"/>
+      <stop offset="1" stop-color="#FF8AD8"/>
+    </linearGradient>
+
+    <linearGradient id="gW1" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FFE066"/><stop offset="1" stop-color="#FFB347"/>
+    </linearGradient>
+    <linearGradient id="gW2" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#5EEAD4"/><stop offset="1" stop-color="#38BDF8"/>
+    </linearGradient>
+    <linearGradient id="gW3" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7BE0FF"/><stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+    <linearGradient id="gW4" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FF8AD8"/><stop offset="1" stop-color="#FFB5E8"/>
+    </linearGradient>
+
+    <radialGradient id="spaceGlow" cx=".5" cy=".5" r=".5">
+      <stop offset="0" stop-color="#BCA8F7" stop-opacity=".42"/>
+      <stop offset=".55" stop-color="#7546D8" stop-opacity=".14"/>
+      <stop offset="1" stop-color="#1E1530" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="orbitGradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#7BE0FF"/>
+      <stop offset=".48" stop-color="#BCA8F7"/>
+      <stop offset="1" stop-color="#F245C2"/>
+    </linearGradient>
+    <linearGradient id="planetGradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F1E9FF"/>
+      <stop offset="1" stop-color="#9865FF"/>
+    </linearGradient>
+
+    <filter id="glow" x="-120%" y="-120%" width="340%" height="340%">
+      <feGaussianBlur stdDeviation="10" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
-    <filter id="softGlow" x="-100%" y="-100%" width="300%" height="300%">
-      <feGaussianBlur stdDeviation="3" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    <filter id="softGlow" x="-120%" y="-120%" width="340%" height="340%">
+      <feGaussianBlur stdDeviation="3.5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
-    <pattern id="dots" x="420" y="18" width="20" height="20" patternUnits="userSpaceOnUse">
-      <circle cx="10" cy="10" r="2.4" fill="#FFFFFF"/>
+
+    <pattern id="dots" x="0" y="0" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="11" cy="11" r="2.2" fill="#FFFFFF"/>
     </pattern>
-    <linearGradient id="gName" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#6D5BFF"/><stop offset="1" stop-color="#E040FB"/></linearGradient>
-    <linearGradient id="gCyan" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#5EEAD4"/><stop offset="1" stop-color="#38BDF8"/></linearGradient>
-    <linearGradient id="gPink" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFB5E8"/><stop offset="1" stop-color="#FF7AB8"/></linearGradient>
-    <linearGradient id="gTeal" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0F9D8A"/><stop offset="1" stop-color="#0E7490"/></linearGradient>
-    <linearGradient id="gLilac" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#C4B5FD"/><stop offset="1" stop-color="#8E7BFF"/></linearGradient>
-    <linearGradient id="gIndigo" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#4F46E5"/><stop offset="1" stop-color="#0EA5E9"/></linearGradient>
-    <linearGradient id="gRose" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FDA4D8"/><stop offset="1" stop-color="#C4B5FD"/></linearGradient>
-    <linearGradient id="gSun" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFE066"/><stop offset="1" stop-color="#FFA94D"/></linearGradient>
-    <linearGradient id="gCoral" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FF5C93"/><stop offset="1" stop-color="#FF8A5C"/></linearGradient>
-    <linearGradient id="gRibbon" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#5EEAD4"/><stop offset=".5" stop-color="#A78BFA"/><stop offset="1" stop-color="#FF8AD8"/></linearGradient>
-    <clipPath id="clipName">  <rect width="600" height="330" rx="28"/></clipPath>
-    <clipPath id="clipSpace"> <rect x="616" width="384" height="330" rx="28"/></clipPath>
-    <clipPath id="clipIraq">  <rect y="346" width="290" height="214" rx="28"/></clipPath>
-    <clipPath id="clipAge">   <rect x="306" y="346" width="200" height="214" rx="28"/></clipPath>
-    <clipPath id="clipTerm">  <rect x="522" y="346" width="478" height="214" rx="28"/></clipPath>
+
+    <g id="codeGlyph" fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M770 128 L734 165 L770 202"/>
+      <path d="M846 128 L882 165 L846 202"/>
+      <path d="M822 118 L794 212"/>
+    </g>
+
+    <clipPath id="clipName"><rect width="600" height="330" rx="28"/></clipPath>
+    <clipPath id="clipSpace"><rect x="616" width="384" height="330" rx="28"/></clipPath>
+    <clipPath id="clipIraq"><rect y="346" width="290" height="214" rx="28"/></clipPath>
+    <clipPath id="clipAge"><rect x="306" y="346" width="200" height="214" rx="28"/></clipPath>
+    <clipPath id="clipTerm"><rect x="522" y="346" width="478" height="214" rx="28"/></clipPath>
+    <clipPath id="clipRibbon"><rect width="1000" height="64" rx="32"/></clipPath>
+    <clipPath id="clipFooter"><rect width="1000" height="170" rx="28"/></clipPath>
+
+    <clipPath id="typeLine1"><rect class="reveal" style="animation-delay:.85s;animation-duration:.55s;animation-timing-function:steps(8,end)" x="36" y="62" width="96" height="30"/></clipPath>
+    <clipPath id="typeLine2"><rect class="reveal" style="animation-delay:1.5s;animation-duration:.45s;animation-timing-function:steps(6,end)" x="36" y="90" width="72" height="30"/></clipPath>
+    <clipPath id="typeLine3"><rect class="reveal" style="animation-delay:2.05s;animation-duration:.9s;animation-timing-function:steps(15,end)" x="36" y="118" width="176" height="30"/></clipPath>
+    <clipPath id="typeLine4"><rect class="reveal" style="animation-delay:3.05s;animation-duration:1.3s;animation-timing-function:steps(25,end)" x="36" y="146" width="290" height="30"/></clipPath>
+
     <style>
-      text { font-family: 'Inter', 'SF Pro Display', 'Segoe UI', Roboto, Arial, sans-serif; }
-      .serif { font-family: Georgia, 'Times New Roman', serif; font-style: italic; }
-      .mono  { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
-      .rise { animation: rise .8s cubic-bezier(.2,.8,.2,1) backwards; }
-      @keyframes rise {
-        from { opacity: 0; transform: translateY(14px); }
-        to   { opacity: 1; transform: translateY(0); }
-      }
-      .word { font-size: 36px; font-weight: 800; fill: #FFE066; opacity: 0; animation: slot 12s linear infinite; }
+      text { font-family: 'Inter','SF Pro Display','Segoe UI',Roboto,Arial,sans-serif; }
+      .serif { font-family: Georgia,'Times New Roman',serif; font-style: italic; }
+      .mono { font-family: ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; }
+
+      .rise { animation: rise .9s cubic-bezier(.22,1,.36,1) backwards; }
+      @keyframes rise { from { opacity:0; transform: translateY(22px); } to { opacity:1; transform: translateY(0); } }
+
+      .word { font-size: 34px; font-weight: 800; opacity: 0; animation: slot 12s cubic-bezier(.2,.8,.2,1) infinite; }
       .w0 { animation-delay: 0s; }
       .w1 { animation-delay: 3s; }
       .w2 { animation-delay: 6s; }
       .w3 { animation-delay: 9s; }
       @keyframes slot {
-        0%      { opacity: 0; }
-        2%      { opacity: 1; }
-        22%     { opacity: 1; }
-        25%     { opacity: 0; }
-        100%    { opacity: 0; }
+        0%   { opacity:0; transform: translateY(16px); }
+        3%   { opacity:1; transform: translateY(0); }
+        22%  { opacity:1; transform: translateY(0); }
+        25%  { opacity:0; transform: translateY(-16px); }
+        25.1%{ opacity:0; transform: translateY(16px); }
+        100% { opacity:0; transform: translateY(16px); }
       }
-      .cosmic-float { animation: cosmicFloat 5s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
-      @keyframes cosmicFloat { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-8px); } }
-      .orbit-spin { animation: orbitSpin 14s linear infinite; transform-origin: 808px 165px; }
-      @keyframes orbitSpin { to { transform: rotate(360deg); } }
-      .orbit-reverse { animation: orbitReverse 20s linear infinite; transform-origin: 808px 165px; }
-      @keyframes orbitReverse { to { transform: rotate(-360deg); } }
-      .star-pulse { animation: starPulse 3s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
-      @keyframes starPulse { 0%,100% { opacity: .85; transform: scale(1); } 50% { opacity: 1; transform: scale(1.07); } }
-      .planet-bob { animation: planetBob 4s ease-in-out infinite; }
-      @keyframes planetBob { 0%,100% { transform: translate(0,0); } 50% { transform: translate(3px,-5px); } }
-      .twinkle { transform-box: fill-box; transform-origin: center; animation: twinkle 2.5s ease-in-out infinite; }
-      .twinkle-delay { animation-delay: 1.2s; }
-      @keyframes twinkle { 0%,100% { opacity: .3; transform: scale(.7); } 50% { opacity: 1; transform: scale(1.25); } }
-      .reveal { transform-box: fill-box; transform-origin: left center; animation: unfurl .9s steps(18, end) backwards; }
+
+      .float { animation: float 6s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+      @keyframes float { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-9px); } }
+
+      .spin { animation: spin 16s linear infinite; transform-origin: 808px 165px; }
+      @keyframes spin { to { transform: rotate(360deg); } }
+      .spinRev { animation: spinRev 26s linear infinite; transform-origin: 808px 165px; }
+      @keyframes spinRev { to { transform: rotate(-360deg); } }
+
+      .pulse { animation: pulse 3.4s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+      @keyframes pulse { 0%,100% { opacity:.86; transform: scale(1); } 50% { opacity:1; transform: scale(1.08); } }
+
+      .bob { animation: bob 4.5s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+      @keyframes bob { 0%,100% { transform: translate(0,0); } 50% { transform: translate(4px,-6px); } }
+
+      .tw { transform-box: fill-box; transform-origin: center; animation: tw 2.6s ease-in-out infinite; }
+      .tw2 { animation-delay: 1.3s; }
+      @keyframes tw { 0%,100% { opacity:.25; transform: scale(.6); } 50% { opacity:1; transform: scale(1.3); } }
+
+      .reveal { transform-box: fill-box; transform-origin: left center; animation: unfurl .8s steps(20,end) backwards; }
       @keyframes unfurl { from { transform: scaleX(0); } to { transform: scaleX(1); } }
-      .caret { animation: blink 1s steps(2, start) infinite; }
+
+      .caret { animation: blink 1.05s steps(2,start) infinite; }
       @keyframes blink { to { visibility: hidden; } }
+
+      .marquee { animation: marquee 40s linear infinite; }
+      @keyframes marquee { to { transform: translateX(-1800px); } }
+
+      .ping { transform-box: fill-box; transform-origin: center; animation: ping 2.8s ease-out infinite; }
+      .ping2 { animation-delay: 1.4s; }
+      @keyframes ping { 0% { transform: scale(.5); opacity:.75; } 100% { transform: scale(2.2); opacity:0; } }
+
       @media (prefers-reduced-motion: reduce) {
         * { animation: none !important; }
         .word { opacity: 0; }
-        .w0   { opacity: 1; }
+        .w0 { opacity: 1; }
       }
     </style>
-  <clipPath id="clipRibbon"><rect width="1000" height="64" rx="32"/></clipPath>
-    <clipPath id="clipFooter"><rect width="1000" height="170" rx="28"/></clipPath>
-    <style>
-      .marquee { animation: marquee 28s linear infinite; }
-      @keyframes marquee { to { transform: translateX(-1300px); } }
-      @media (prefers-reduced-motion: reduce) { .marquee { animation: none !important; } }
-    </style>
   </defs>
+
+  <rect width="1000" height="1574" fill="#07050F"/>
+  <ellipse cx="180" cy="140" rx="620" ry="480" fill="#7C5CFF" opacity=".10"/>
+  <ellipse cx="880" cy="1360" rx="540" ry="440" fill="#E040FB" opacity=".07"/>
+
   <g class="rise" style="animation-delay:0s">
     <rect width="600" height="330" rx="28" fill="url(#gName)"/>
     <g clip-path="url(#clipName)">
-      <circle cx="610" cy="360" r="250" fill="#FFFFFF" fill-opacity=".07"/>
-      <circle cx="610" cy="360" r="180" fill="#1B0B5A" fill-opacity=".18"/>
-      <circle cx="610" cy="360" r="110" fill="#FFFFFF" fill-opacity=".08"/>
-      <rect x="420" y="18" width="160" height="80" fill="url(#dots)" opacity=".35"/>
-      <text x="34"  y="62"  font-size="22" font-weight="700" fill="#FFFFFF">zentra</text>
-      <text x="28"  y="190" font-size="132" font-weight="900" fill="#FFFFFF" letter-spacing="-6">Zentra</text>
-      <text x="34"  y="272" font-size="36" class="serif" fill="#FFFFFF">I write</text>
-      <text x="172" y="272" class="word w0">JavaScript</text>
-      <text x="172" y="272" class="word w1">Lua</text>
-      <text x="172" y="272" class="word w2">Python</text>
-      <text x="172" y="272" class="word w3">C++</text>
+      <rect width="600" height="330" fill="url(#nameSheen)"/>
+      <rect width="600" height="330" fill="url(#nameHalo)"/>
+      <circle cx="562" cy="332" r="214" fill="#FFFFFF" fill-opacity=".08"/>
+      <circle cx="562" cy="332" r="146" fill="#2A0B5E" fill-opacity=".16"/>
+      <circle cx="562" cy="332" r="82" fill="#FFFFFF" fill-opacity=".07"/>
+      <rect x="372" y="8" width="216" height="126" fill="url(#dots)" opacity=".16"/>
+      <circle cx="512" cy="66" r="4" fill="#5EEAD4" opacity=".9"/>
+      <circle cx="556" cy="42" r="2.5" fill="#FFE066" opacity=".8"/>
+      <circle cx="584" cy="88" r="3" fill="#FFFFFF" opacity=".6"/>
     </g>
+    <rect width="600" height="330" rx="28" fill="none" stroke="#FFFFFF" stroke-opacity=".14"/>
   </g>
+
+  <g class="rise" style="animation-delay:.06s">
+    <text x="34" y="62" font-size="22" font-weight="700" fill="#FFFFFF">Zentra</text>
+  </g>
+
   <g class="rise" style="animation-delay:.12s">
-    <rect x="616" width="384" height="330" rx="28" fill="#120D2B"/>
+    <text x="28" y="190" font-size="132" font-weight="900" fill="#FFFFFF">Zentra</text>
+  </g>
+
+  <g class="rise" style="animation-delay:.18s">
+    <text x="36" y="272" font-size="30" class="serif" fill="#FFFFFF" fill-opacity=".9">I write</text>
+    <text x="150" y="272" class="word w0" fill="url(#gW1)">JavaScript</text>
+    <text x="150" y="272" class="word w1" fill="url(#gW2)">Lua</text>
+    <text x="150" y="272" class="word w2" fill="url(#gW3)">Python</text>
+    <text x="150" y="272" class="word w3" fill="url(#gW4)">C++</text>
+  </g>
+
+  <g class="rise" style="animation-delay:.1s">
+    <rect x="616" width="384" height="330" rx="28" fill="#0C0A1E"/>
     <g clip-path="url(#clipSpace)">
-      <circle cx="808" cy="165" r="185" fill="url(#spaceGlow)"/>
-      <circle cx="808" cy="165" r="150" fill="none" stroke="#8665E8" stroke-opacity=".22" stroke-width="2"/>
-      <circle cx="808" cy="165" r="112" fill="none" stroke="#BCA8F7" stroke-opacity=".18" stroke-width="2"/>
-      <circle cx="808" cy="165" r="80"  fill="none" stroke="#BCA8F7" stroke-opacity=".09" stroke-width="1.5"/>
-      <g fill="#FFF3FF">
-        <path class="twinkle" d="M700 65 l2.5 6 6 2.5 -6 2.5 -2.5 6 -2.5 -6 -6 -2.5 6 -2.5Z"/>
-        <path class="twinkle twinkle-delay" d="M927 110 l2 5 5 2 -5 2 -2 5 -2 -5 -5 -2 5 -2Z"/>
-        <path class="twinkle" d="M750 244 l1.8 4 4 1.8 -4 1.8 -1.8 4 -1.8 -4 -4 -1.8 4 -1.8Z"/>
-        <path class="twinkle twinkle-delay" d="M907 225 l2 5 5 2 -5 2 -2 5 -2 -5 -5 -2 5 -2Z"/>
-        <circle cx="672" cy="123" r="1.5" opacity=".7"/>
-        <circle cx="948" cy="70"  r="1.5" opacity=".7"/>
-        <circle cx="687" cy="270" r="1.5" opacity=".7"/>
-        <circle cx="963" cy="180" r="1.5" opacity=".7"/>
-        <circle cx="865" cy="45"  r="1.5" opacity=".7"/>
-        <circle cx="834" cy="286" r="1.5" opacity=".7"/>
+      <circle cx="808" cy="165" r="192" fill="url(#spaceGlow)"/>
+      <circle cx="808" cy="165" r="152" fill="none" stroke="#8B6CE8" stroke-opacity=".18" stroke-width="2"/>
+      <circle cx="808" cy="165" r="114" fill="none" stroke="#BCA8F7" stroke-opacity=".13" stroke-width="2"/>
+      <circle cx="808" cy="165" r="78" fill="none" stroke="#BCA8F7" stroke-opacity=".08" stroke-width="1.5"/>
+
+      <g fill="#FFFFFF">
+        <path class="tw" d="M702 62 l2.6 6.2 6.2 2.6 -6.2 2.6 -2.6 6.2 -2.6 -6.2 -6.2 -2.6 6.2 -2.6 Z"/>
+        <path class="tw tw2" d="M926 108 l2.1 5 5 2.1 -5 2.1 -2.1 5 -2.1 -5 -5 -2.1 5 -2.1 Z"/>
+        <path class="tw" d="M752 246 l1.9 4.4 4.4 1.9 -4.4 1.9 -1.9 4.4 -1.9 -4.4 -4.4 -1.9 4.4 -1.9 Z"/>
+        <path class="tw tw2" d="M906 226 l2.1 5 5 2.1 -5 2.1 -2.1 5 -2.1 -5 -5 -2.1 5 -2.1 Z"/>
+        <circle cx="672" cy="122" r="1.6" opacity=".65"/>
+        <circle cx="948" cy="70" r="1.6" opacity=".65"/>
+        <circle cx="686" cy="270" r="1.6" opacity=".65"/>
+        <circle cx="962" cy="180" r="1.6" opacity=".65"/>
+        <circle cx="864" cy="44" r="1.6" opacity=".65"/>
+        <circle cx="834" cy="288" r="1.6" opacity=".65"/>
+        <circle cx="644" cy="196" r="1.6" opacity=".65"/>
       </g>
-      <circle cx="678" cy="62"  r="6"   fill="#FFE066"/>
-      <circle cx="946" cy="274" r="8"   fill="#9865FF"/>
-      <circle cx="939" cy="55"  r="4.5" fill="#5EEAD4"/>
-      <g class="orbit-reverse">
-        <ellipse cx="808" cy="165" rx="106" ry="40" fill="none" stroke="#7BE0FF" stroke-opacity=".12" stroke-width="1.5"/>
+
+      <circle cx="678" cy="62" r="6" fill="#FFE066"/>
+      <circle cx="946" cy="274" r="8" fill="#9865FF"/>
+      <circle cx="938" cy="54" r="4.5" fill="#5EEAD4"/>
+      <circle cx="654" cy="240" r="3.5" fill="#FF8AD8"/>
+
+      <g class="spinRev">
+        <ellipse cx="808" cy="165" rx="108" ry="41" fill="none" stroke="#7BE0FF" stroke-opacity=".12" stroke-width="1.5"/>
       </g>
-      <g class="orbit-spin">
-        <ellipse cx="808" cy="165" rx="106" ry="40" fill="none" stroke="url(#orbitGradient)"
-                 stroke-width="5.5" stroke-linecap="round" stroke-dasharray="300 370" filter="url(#softGlow)"/>
-        <circle cx="914" cy="165" r="10" fill="url(#planetGradient)" filter="url(#softGlow)"/>
+      <g class="spin">
+        <ellipse cx="808" cy="165" rx="108" ry="41" fill="none" stroke="url(#orbitGradient)" stroke-width="5.5"
+                 stroke-linecap="round" stroke-dasharray="300 375" filter="url(#softGlow)"/>
+        <circle cx="916" cy="165" r="10" fill="url(#planetGradient)" filter="url(#softGlow)"/>
       </g>
-      <g class="cosmic-float">
-        <circle cx="808" cy="165" r="63" fill="#A88AFF" opacity=".08" filter="url(#glow)"/>
-        <g class="star-pulse" filter="url(#softGlow)">
-          <path d="M808 105 L820 151 L868 165 L820 179 L808 225 L796 179 L748 165 L796 151 Z" fill="url(#starGradient)"/>
-          <path d="M808 105 L808 165 L748 165 L796 151 Z"  fill="#FFFFFF" opacity=".45"/>
-          <path d="M808 165 L868 165 L820 179 L808 225 Z"  fill="#8E6AEF" opacity=".48"/>
-          <path d="M808 105 L820 151 L808 165 L796 151 Z"  fill="#FFFFFF" opacity=".72"/>
+
+      <g class="float">
+        <circle cx="808" cy="165" r="66" fill="#A88AFF" opacity=".08" filter="url(#glow)"/>
+        <g class="pulse" filter="url(#softGlow)">
+          <use href="#codeGlyph" stroke="#DCCAFF" stroke-width="16"/>
         </g>
-        <g class="planet-bob">
-          <circle cx="870" cy="157" r="11" fill="url(#planetGradient)" filter="url(#softGlow)"/>
-          <ellipse cx="867" cy="153" rx="3.5" ry="2.2" fill="#FFFFFF" opacity=".55"/>
+        <g class="bob">
+          <circle cx="872" cy="156" r="11" fill="url(#planetGradient)" filter="url(#softGlow)"/>
+          <ellipse cx="868" cy="152" rx="3.4" ry="2.1" fill="#FFFFFF" opacity=".55"/>
         </g>
       </g>
     </g>
+    <rect x="616" width="384" height="330" rx="28" fill="none" stroke="#FFFFFF" stroke-opacity=".08"/>
   </g>
+
   <g class="rise" style="animation-delay:.24s">
-    <rect y="346" width="290" height="214" rx="28" fill="url(#gCyan)"/>
+    <rect y="346" width="290" height="214" rx="28" fill="url(#gIraq)"/>
     <g clip-path="url(#clipIraq)">
       <g transform="translate(0 346)">
-        <circle cx="250" cy="48" r="60" fill="none" stroke="#06223A" stroke-opacity=".18" stroke-width="2"/>
-        <circle cx="250" cy="48" r="38" fill="none" stroke="#06223A" stroke-opacity=".18" stroke-width="2"/>
-        <circle cx="250" cy="48" r="8"  fill="#FFFFFF"/>
-        <text x="28" y="52"  font-size="18" font-weight="700" fill="#06223A" fill-opacity=".8">Based in</text>
-        <text x="26" y="178" font-size="84" font-weight="900" fill="#06223A" letter-spacing="-3">Iraq</text>
+        <circle cx="246" cy="48" r="82" fill="#FFFFFF" fill-opacity=".12"/>
+        <circle cx="246" cy="48" r="42" fill="none" stroke="#062A33" stroke-opacity=".22" stroke-width="1.6"/>
+        <ellipse cx="246" cy="48" rx="18" ry="42" fill="none" stroke="#062A33" stroke-opacity=".22" stroke-width="1.6"/>
+        <line x1="204" y1="48" x2="288" y2="48" stroke="#062A33" stroke-opacity=".22" stroke-width="1.6"/>
+        <circle class="ping" cx="246" cy="48" r="12" fill="none" stroke="#062A33" stroke-width="2" stroke-opacity=".5"/>
+        <circle class="ping ping2" cx="246" cy="48" r="12" fill="none" stroke="#062A33" stroke-width="2" stroke-opacity=".5"/>
+        <circle cx="246" cy="48" r="7" fill="#062A33"/>
+        <circle cx="246" cy="48" r="7" fill="#FFFFFF" fill-opacity=".35"/>
+        <text x="28" y="54" font-size="17" font-weight="700" fill="#062A33" fill-opacity=".8" letter-spacing="1.6">BASED IN</text>
+        <text x="26" y="178" font-size="84" font-weight="900" fill="#062A33" letter-spacing="-3">Iraq</text>
       </g>
     </g>
+    <rect y="346" width="290" height="214" rx="28" fill="none" stroke="#FFFFFF" stroke-opacity=".16"/>
   </g>
-  <g class="rise" style="animation-delay:.36s">
-    <rect x="306" y="346" width="200" height="214" rx="28" fill="url(#gPink)"/>
+
+  <g class="rise" style="animation-delay:.32s">
+    <rect x="306" y="346" width="200" height="214" rx="28" fill="url(#gAge)"/>
     <g clip-path="url(#clipAge)">
       <g transform="translate(306 346)">
-        <text x="28" y="52"  font-size="18" font-weight="700" fill="#3A0A2E" fill-opacity=".85">Age</text>
-        <text x="24" y="178" font-size="122" font-weight="900" fill="#3A0A2E" letter-spacing="-6">17</text>
+        <circle cx="178" cy="40" r="64" fill="#FFFFFF" fill-opacity=".20"/>
+        <path class="tw" d="M158 74 l1.8 4.2 4.2 1.8 -4.2 1.8 -1.8 4.2 -1.8 -4.2 -4.2 -1.8 4.2 -1.8 Z" fill="#FFFFFF"/>
+        <text x="28" y="54" font-size="17" font-weight="700" fill="#3B0721" fill-opacity=".75" letter-spacing="1.6">AGE</text>
+        <text x="24" y="178" font-size="112" font-weight="900" fill="#3B0721" letter-spacing="-6">17</text>
       </g>
     </g>
+    <rect x="306" y="346" width="200" height="214" rx="28" fill="none" stroke="#FFFFFF" stroke-opacity=".16"/>
   </g>
-  <g class="rise" style="animation-delay:.48s">
+
+  <g class="rise" style="animation-delay:.4s">
     <rect x="522" y="346" width="478" height="214" rx="28" fill="#0A0A1A"/>
     <g clip-path="url(#clipTerm)">
       <g transform="translate(522 346)">
         <circle cx="40" cy="36" r="6.5" fill="#FF5F57"/>
         <circle cx="62" cy="36" r="6.5" fill="#FEBC2E"/>
         <circle cx="84" cy="36" r="6.5" fill="#28C840"/>
-        <clipPath id="typeLine1">
-          <rect class="reveal" style="animation-delay:.8s;animation-timing-function:steps(8,end)" x="32" y="62" width="106" height="30"/>
-        </clipPath>
-        <text class="mono" x="32" y="84" font-size="20" fill="#F5F3FF" clip-path="url(#typeLine1)">$ whoami</text>
-        <clipPath id="typeLine2">
-          <rect class="reveal" style="animation-delay:1.5s;animation-timing-function:steps(5,end)" x="32" y="92" width="69" height="30"/>
-        </clipPath>
-        <text class="mono" x="32" y="114" font-size="20" fill="#FFE066" clip-path="url(#typeLine2)">zentra</text>
-        <clipPath id="typeLine3">
-          <rect class="reveal" style="animation-delay:2.2s;animation-timing-function:steps(15,end)" x="32" y="122" width="191" height="30"/>
-        </clipPath>
-        <text class="mono" x="32" y="144" font-size="20" fill="#F5F3FF" clip-path="url(#typeLine3)">$ ls languages/</text>
-        <clipPath id="typeLine4">
-          <rect class="reveal" style="animation-delay:3.1s;animation-timing-function:steps(25,end)" x="32" y="152" width="362" height="30"/>
-        </clipPath>
-        <text class="mono" x="32" y="174" font-size="20" fill="#5EEAD4" clip-path="url(#typeLine4)">javascript c++ lua python</text>
-        <text class="mono" x="32" y="204" font-size="20" fill="#F5F3FF">$</text>
-        <rect class="caret" x="52" y="187" width="11" height="22" fill="#F5F3FF"/>
+        <text class="mono" x="416" y="42" font-size="13" fill="#6B7280">bash</text>
+        <text class="mono" x="36" y="84" font-size="19" fill="#F5F3FF" clip-path="url(#typeLine1)">$ whoami</text>
+        <text class="mono" x="36" y="112" font-size="19" fill="#FFE066" clip-path="url(#typeLine2)">coder</text>
+        <text class="mono" x="36" y="140" font-size="19" fill="#F5F3FF" clip-path="url(#typeLine3)">$ ls languages/</text>
+        <text class="mono" x="36" y="168" font-size="19" fill="#5EEAD4" clip-path="url(#typeLine4)">javascript c++ lua python</text>
+        <text class="mono" x="36" y="196" font-size="19" fill="#F5F3FF">$</text>
+        <rect class="caret" x="56" y="180" width="10" height="20" fill="#F5F3FF"/>
       </g>
     </g>
+    <rect x="522" y="346" width="478" height="214" rx="28" fill="none" stroke="#FFFFFF" stroke-opacity=".08"/>
   </g>
-  <g class="rise" style="animation-delay:.6s">
+
+  <g class="rise" style="animation-delay:.5s">
     <rect y="576" width="600" height="240" rx="28" fill="#F5F3FF"/>
     <g transform="translate(0 576)">
-      <text x="34" y="86"  font-size="44" font-weight="900" fill="#0D0B1E">I'm 17 and I write code</text>
-      <text x="34" y="140" font-size="48" class="serif" fill="#D61FBF">from Iraq.</text>
-      <text x="34" y="184" font-size="19" fill="#0D0B1E" fill-opacity=".75">My tools are Node.js, discord.js, Express and Git,</text>
-      <text x="34" y="210" font-size="19" fill="#0D0B1E" fill-opacity=".75">all written in vscodium.</text>
+      <circle cx="566" cy="30" r="120" fill="#8B5CF6" fill-opacity=".06"/>
+      <rect x="34" y="42" width="46" height="5" rx="2.5" fill="#D61FBF"/>
+      <text x="34" y="92" font-size="42" font-weight="900" fill="#0D0B1E" letter-spacing="-1.4" textLength="530" lengthAdjust="spacingAndGlyphs">I'm 17 and I write code</text>
+      <text x="34" y="146" font-size="46" class="serif" fill="#D61FBF">from Iraq.</text>
+      <text x="34" y="188" font-size="18" fill="#0D0B1E" fill-opacity=".68">My tools are Node.js, discord.js, Express and Git,</text>
+      <text x="34" y="212" font-size="18" fill="#0D0B1E" fill-opacity=".68">all written in vscodium.</text>
     </g>
+    <rect y="576" width="600" height="240" rx="28" fill="none" stroke="#0D0B1E" stroke-opacity=".06"/>
   </g>
-  <g class="rise" style="animation-delay:.72s">
-    <rect x="616" y="576" width="384" height="112" rx="28" fill="url(#gTeal)"/>
+
+  <g class="rise" style="animation-delay:.58s">
+    <rect x="616" y="576" width="384" height="112" rx="28" fill="url(#gStat1)"/>
     <g transform="translate(616 576)">
-      <text x="30"  y="88" font-size="86" font-weight="900" fill="#FFFFFF">6</text>
-      <text x="100" y="86" font-size="28" font-weight="700" fill="#FFFFFF">languages</text>
+      <circle cx="336" cy="20" r="70" fill="#FFFFFF" fill-opacity=".08"/>
+      <text x="30" y="88" font-size="84" font-weight="900" fill="#FFFFFF" letter-spacing="-4">6</text>
+      <text x="100" y="86" font-size="27" font-weight="700" fill="#FFFFFF">languages</text>
     </g>
+    <rect x="616" y="576" width="384" height="112" rx="28" fill="none" stroke="#FFFFFF" stroke-opacity=".14"/>
   </g>
-  <g class="rise" style="animation-delay:.84s">
-    <rect x="616" y="704" width="384" height="112" rx="28" fill="url(#gLilac)"/>
+
+  <g class="rise" style="animation-delay:.66s">
+    <rect x="616" y="704" width="384" height="112" rx="28" fill="url(#gStat2)"/>
     <g transform="translate(616 704)">
-      <text x="30"  y="88" font-size="86" font-weight="900" fill="#1B1245">6</text>
-      <text x="100" y="86" font-size="28" font-weight="700" fill="#1B1245">tools in the kit</text>
+      <circle cx="336" cy="20" r="70" fill="#FFFFFF" fill-opacity=".14"/>
+      <text x="30" y="88" font-size="84" font-weight="900" fill="#1B1245" letter-spacing="-4">6</text>
+      <text x="100" y="86" font-size="27" font-weight="700" fill="#1B1245">tools in the kit</text>
     </g>
+    <rect x="616" y="704" width="384" height="112" rx="28" fill="none" stroke="#FFFFFF" stroke-opacity=".18"/>
   </g>
-  <g class="rise" style="animation-delay:.96s">
-    <rect y="832" width="600" height="230" rx="28" fill="url(#gIndigo)"/>
+
+  <g class="rise" style="animation-delay:.76s">
+    <rect y="832" width="600" height="230" rx="28" fill="url(#gLang)"/>
     <g transform="translate(0 832)">
-      <text x="32" y="52" font-size="28" font-weight="800" fill="#FFFFFF">Languages</text>
-        <rect x="75" y="80" width="96" height="96" rx="30" fill="#FFFFFF"/>
-        <text x="123" y="141" font-size="40" font-weight="900" fill="#4338CA" text-anchor="middle">JS</text>
-        <text x="123" y="208" font-size="17" font-weight="700" fill="#FFFFFF" text-anchor="middle">JavaScript</text>
-        <rect x="193" y="80" width="96" height="96" rx="30" fill="#FFFFFF"/>
-        <text x="241" y="141" font-size="32" font-weight="900" fill="#4338CA" text-anchor="middle">C++</text>
-        <text x="241" y="208" font-size="17" font-weight="700" fill="#FFFFFF" text-anchor="middle">C++</text>
-        <rect x="311" y="80" width="96" height="96" rx="30" fill="#FFFFFF"/>
-        <text x="359" y="141" font-size="32" font-weight="900" fill="#4338CA" text-anchor="middle">Lua</text>
-        <text x="359" y="208" font-size="17" font-weight="700" fill="#FFFFFF" text-anchor="middle">Lua</text>
-        <rect x="429" y="80" width="96" height="96" rx="30" fill="#FFFFFF"/>
-        <text x="477" y="141" font-size="40" font-weight="900" fill="#4338CA" text-anchor="middle">Py</text>
-        <text x="477" y="208" font-size="17" font-weight="700" fill="#FFFFFF" text-anchor="middle">Python</text>
+      <circle cx="556" cy="26" r="130" fill="#FFFFFF" fill-opacity=".05"/>
+      <text x="48" y="54" font-size="26" font-weight="800" fill="#E0E7FF">Languages</text>
+
+      <rect x="48" y="78" width="108" height="108" rx="30" fill="#F7DF1E"/>
+      <text x="102" y="146" font-size="40" font-weight="900" fill="#111827" text-anchor="middle">JS</text>
+      <text x="102" y="214" font-size="16" font-weight="700" fill="#FFFFFF" text-anchor="middle">JavaScript</text>
+
+      <rect x="180" y="78" width="108" height="108" rx="30" fill="#00599C"/>
+      <text x="234" y="146" font-size="32" font-weight="900" fill="#FFFFFF" text-anchor="middle">C++</text>
+      <text x="234" y="214" font-size="16" font-weight="700" fill="#FFFFFF" text-anchor="middle">C++</text>
+
+      <rect x="312" y="78" width="108" height="108" rx="30" fill="#2C2D72"/>
+      <circle cx="366" cy="132" r="29" fill="#FFFFFF"/>
+      <circle cx="379" cy="121" r="29" fill="#2C2D72"/>
+      <path d="M348 106 l1.6 3.8 3.8 1.6 -3.8 1.6 -1.6 3.8 -1.6 -3.8 -3.8 -1.6 3.8 -1.6 Z" fill="#FFFFFF"/>
+      <text x="366" y="214" font-size="16" font-weight="700" fill="#FFFFFF" text-anchor="middle">Lua</text>
+
+      <rect x="444" y="78" width="108" height="108" rx="30" fill="#3776AB"/>
+      <text x="498" y="146" font-size="38" font-weight="900" fill="#FFFFFF" text-anchor="middle">Py</text>
+      <rect x="474" y="156" width="48" height="8" rx="4" fill="#FFD43B"/>
+      <text x="498" y="214" font-size="16" font-weight="700" fill="#FFFFFF" text-anchor="middle">Python</text>
     </g>
+    <rect y="832" width="600" height="230" rx="28" fill="none" stroke="#FFFFFF" stroke-opacity=".14"/>
   </g>
-  <g class="rise" style="animation-delay:1.08s">
-    <rect x="616" y="832" width="384" height="230" rx="28" fill="url(#gRose)"/>
+
+  <g class="rise" style="animation-delay:.84s">
+    <rect x="616" y="832" width="384" height="230" rx="28" fill="url(#gWeb)"/>
     <g transform="translate(616 832)">
-      <text x="32" y="52" font-size="28" font-weight="800" fill="#2A1245">Web</text>
-        <circle cx="108" cy="128" r="48" fill="#2A1245"/>
-        <text x="108" y="142" font-size="38" font-weight="900" fill="#FFFFFF" text-anchor="middle">H5</text>
-        <text x="108" y="208" font-size="17" font-weight="700" fill="#2A1245" text-anchor="middle">HTML5</text>
-        <circle cx="252" cy="128" r="48" fill="#2A1245"/>
-        <text x="252" y="142" font-size="38" font-weight="900" fill="#FFFFFF" text-anchor="middle">C3</text>
-        <text x="252" y="208" font-size="17" font-weight="700" fill="#2A1245" text-anchor="middle">CSS3</text>
+      <circle cx="356" cy="26" r="110" fill="#FFFFFF" fill-opacity=".18"/>
+      <text x="68" y="54" font-size="26" font-weight="800" fill="#2A1245">Web</text>
+
+      <rect x="68" y="78" width="108" height="108" rx="30" fill="#E34F26"/>
+      <path d="M92 100 L152 100 L147 154 L122 164 L97 154 Z" fill="#FFFFFF"/>
+      <text x="122" y="145" font-size="30" font-weight="900" fill="#E34F26" text-anchor="middle">5</text>
+      <text x="122" y="214" font-size="16" font-weight="700" fill="#2A1245" text-anchor="middle">HTML5</text>
+
+      <rect x="208" y="78" width="108" height="108" rx="30" fill="#1572B6"/>
+      <path d="M232 100 L292 100 L287 154 L262 164 L237 154 Z" fill="#FFFFFF"/>
+      <text x="262" y="145" font-size="30" font-weight="900" fill="#1572B6" text-anchor="middle">3</text>
+      <text x="262" y="214" font-size="16" font-weight="700" fill="#2A1245" text-anchor="middle">CSS3</text>
     </g>
+    <rect x="616" y="832" width="384" height="230" rx="28" fill="none" stroke="#FFFFFF" stroke-opacity=".18"/>
   </g>
-  <g class="rise" style="animation-delay:1.2s">
+
+  <g class="rise" style="animation-delay:.94s">
     <rect y="1078" width="600" height="230" rx="28" fill="#14102B"/>
     <g transform="translate(0 1078)">
-      <text x="32" y="52" font-size="28" font-weight="800" fill="#F5F3FF">Runtimes and tools</text>
-        <polygon points="123,82 165,106 165,150 123,174 81,150 81,106" fill="#FFE066" stroke="#FFE066" stroke-width="10" stroke-linejoin="round"/>
-        <text x="123" y="141" font-size="36" font-weight="900" fill="#14102B" text-anchor="middle">No</text>
-        <text x="123" y="208" font-size="17" font-weight="700" fill="#F5F3FF" text-anchor="middle">Node.js</text>
-        <polygon points="241,82 283,106 283,150 241,174 199,150 199,106" fill="#FFE066" stroke="#FFE066" stroke-width="10" stroke-linejoin="round"/>
-        <text x="241" y="141" font-size="36" font-weight="900" fill="#14102B" text-anchor="middle">Dj</text>
-        <text x="241" y="208" font-size="17" font-weight="700" fill="#F5F3FF" text-anchor="middle">discord.js</text>
-        <polygon points="359,82 401,106 401,150 359,174 317,150 317,106" fill="#FFE066" stroke="#FFE066" stroke-width="10" stroke-linejoin="round"/>
-        <text x="359" y="141" font-size="36" font-weight="900" fill="#14102B" text-anchor="middle">Ex</text>
-        <text x="359" y="208" font-size="17" font-weight="700" fill="#F5F3FF" text-anchor="middle">Express</text>
-        <polygon points="477,82 519,106 519,150 477,174 435,150 435,106" fill="#FFE066" stroke="#FFE066" stroke-width="10" stroke-linejoin="round"/>
-        <text x="477" y="141" font-size="36" font-weight="900" fill="#14102B" text-anchor="middle">Gt</text>
-        <text x="477" y="208" font-size="17" font-weight="700" fill="#F5F3FF" text-anchor="middle">Git</text>
+      <circle cx="520" cy="200" r="150" fill="#8B5CF6" fill-opacity=".06"/>
+      <text x="54" y="54" font-size="26" font-weight="800" fill="#F5F3FF">Runtimes &amp; tools</text>
+
+      <polygon points="96,80 138,104 138,152 96,176 54,152 54,104" fill="#5FA04E"/>
+      <text x="96" y="140" font-size="30" font-weight="900" fill="#FFFFFF" text-anchor="middle">No</text>
+      <text x="96" y="210" font-size="16" font-weight="700" fill="#C7D2FE" text-anchor="middle">Node.js</text>
+
+      <polygon points="232,80 274,104 274,152 232,176 190,152 190,104" fill="#5865F2"/>
+      <text x="232" y="140" font-size="30" font-weight="900" fill="#FFFFFF" text-anchor="middle">Dj</text>
+      <text x="232" y="210" font-size="16" font-weight="700" fill="#C7D2FE" text-anchor="middle">discord.js</text>
+
+      <polygon points="368,80 410,104 410,152 368,176 326,152 326,104" fill="#F5F3FF"/>
+      <text x="368" y="140" font-size="30" font-weight="900" fill="#14102B" text-anchor="middle">Ex</text>
+      <text x="368" y="210" font-size="16" font-weight="700" fill="#C7D2FE" text-anchor="middle">Express</text>
+
+      <polygon points="504,80 546,104 546,152 504,176 462,152 462,104" fill="#F05032"/>
+      <text x="504" y="140" font-size="30" font-weight="900" fill="#FFFFFF" text-anchor="middle">Gt</text>
+      <text x="504" y="210" font-size="16" font-weight="700" fill="#C7D2FE" text-anchor="middle">Git</text>
     </g>
+    <rect y="1078" width="600" height="230" rx="28" fill="none" stroke="#FFFFFF" stroke-opacity=".08"/>
   </g>
-  <g class="rise" style="animation-delay:1.32s">
+
+  <g class="rise" style="animation-delay:1.04s">
     <rect x="616" y="1078" width="384" height="107" rx="28" fill="url(#gSun)"/>
     <g transform="translate(616 1078)">
-      <text x="30" y="34" font-size="16" font-weight="700" fill="#2B1600" fill-opacity=".75">Database</text>
-      <circle cx="56" cy="70" r="26" fill="#2B1600"/>
-      <text x="56" y="79" font-size="22" font-weight="900" fill="#FFE066" text-anchor="middle">Mo</text>
-      <text x="96" y="82" font-size="32" font-weight="900" fill="#2B1600">MongoDB</text>
+      <circle cx="330" cy="16" r="64" fill="#FFFFFF" fill-opacity=".18"/>
+      <text x="30" y="32" font-size="12" font-weight="700" fill="#2B1600" fill-opacity=".7" letter-spacing="1.6">DATABASE</text>
+      <rect x="30" y="46" width="48" height="48" rx="14" fill="#10AA50"/>
+      <path d="M54 56 C61 65 62 71 57 77 L54 84 L51 77 C46 71 47 65 54 56 Z" fill="#FFFFFF"/>
+      <text x="92" y="78" font-size="26" font-weight="800" fill="#2B1600">MongoDB</text>
     </g>
+    <rect x="616" y="1078" width="384" height="107" rx="28" fill="none" stroke="#FFFFFF" stroke-opacity=".2"/>
   </g>
-  <g class="rise" style="animation-delay:1.44s">
+
+  <g class="rise" style="animation-delay:1.14s">
     <rect x="616" y="1201" width="384" height="107" rx="28" fill="url(#gCoral)"/>
     <g transform="translate(616 1201)">
-      <text x="30" y="34" font-size="16" font-weight="700" fill="#FFFFFF" fill-opacity=".85">Editor</text>
-      <rect x="30" y="44" width="52" height="52" rx="14" fill="#FFFFFF"/>
-      <text x="56" y="79" font-size="24" font-weight="900" fill="#D6336C" text-anchor="middle">VS</text>
-      <text x="96" y="78" font-size="26" font-weight="800" fill="#FFFFFF">vscodium</text>
+      <circle cx="330" cy="16" r="64" fill="#FFFFFF" fill-opacity=".14"/>
+      <text x="30" y="32" font-size="12" font-weight="700" fill="#FFFFFF" fill-opacity=".85" letter-spacing="1.6">EDITOR</text>
+      <rect x="30" y="46" width="48" height="48" rx="14" fill="#FFFFFF"/>
+      <text x="54" y="80" font-size="20" font-weight="900" fill="#1F9CF0" text-anchor="middle">VS</text>
+      <text x="92" y="78" font-size="26" font-weight="800" fill="#FFFFFF">vscodium</text>
     </g>
+    <rect x="616" y="1201" width="384" height="107" rx="28" fill="none" stroke="#FFFFFF" stroke-opacity=".2"/>
   </g>
-  <g class="rise" style="animation-delay:1.56s">
+
+  <g class="rise" style="animation-delay:1.24s">
     <g transform="translate(0 1324)">
       <rect width="1000" height="64" rx="32" fill="url(#gRibbon)"/>
       <g clip-path="url(#clipRibbon)">
         <g class="marquee">
-          <text x="0"    y="41" font-size="24" font-weight="800" fill="#0D0B1E" xml:space="preserve" textLength="1300" lengthAdjust="spacing">vscodium  •   JavaScript   •   C++   •   Lua   •   Python   •   HTML5   •   CSS3   •   </text>
-          <text x="1300" y="41" font-size="24" font-weight="800" fill="#0D0B1E" xml:space="preserve" textLength="1300" lengthAdjust="spacing">vscodium  •   JavaScript   •   C++   •   Lua   •   Python   •   HTML5   •   CSS3   •   </text>
+          <text x="0" y="42" font-size="23" font-weight="800" fill="#0D0B1E" textLength="1800" lengthAdjust="spacing" xml:space="preserve">JavaScript  •  C++  •  Lua  •  Python  •  HTML5  •  CSS3  •  Node.js  •  discord.js  •  Express  •  Git  •  MongoDB  •  vscodium  •  </text>
+          <text x="1800" y="42" font-size="23" font-weight="800" fill="#0D0B1E" textLength="1800" lengthAdjust="spacing" xml:space="preserve">JavaScript  •  C++  •  Lua  •  Python  •  HTML5  •  CSS3  •  Node.js  •  discord.js  •  Express  •  Git  •  MongoDB  •  vscodium  •  </text>
         </g>
       </g>
     </g>
   </g>
-  <g class="rise" style="animation-delay:1.68s">
-    <rect y="1404" width="1000" height="170" rx="28" fill="#14102B"/>
+
+  <g class="rise" style="animation-delay:1.34s">
     <g transform="translate(0 1404)">
+      <rect width="1000" height="170" rx="28" fill="#14102B"/>
       <g clip-path="url(#clipFooter)">
-        <circle cx="900" cy="95" r="120" fill="#221A45"/>
-        <circle cx="900" cy="85" r="90" fill="url(#spaceGlow)"/>
-        <ellipse cx="900" cy="85" rx="74" ry="28" fill="none" stroke="#7BE0FF" stroke-opacity=".25" stroke-width="2"/>
-        <g transform="translate(900 85) scale(.8) translate(-808 -165)">
-          <g class="star-pulse" filter="url(#softGlow)">
-            <path d="M808 105 L820 151 L868 165 L820 179 L808 225 L796 179 L748 165 L796 151 Z" fill="url(#starGradient)"/>
-            <path d="M808 105 L808 165 L748 165 L796 151 Z" fill="#FFFFFF" opacity=".45"/>
-            <path d="M808 165 L868 165 L820 179 L808 225 Z" fill="#8E6AEF" opacity=".48"/>
-            <path d="M808 105 L820 151 L808 165 L796 151 Z" fill="#FFFFFF" opacity=".72"/>
+        <circle cx="880" cy="86" r="150" fill="#1E1740"/>
+        <circle cx="880" cy="86" r="98" fill="url(#spaceGlow)"/>
+        <ellipse cx="880" cy="86" rx="78" ry="30" fill="none" stroke="#7BE0FF" stroke-opacity=".22" stroke-width="2"/>
+        <g transform="translate(880 86) scale(.78) translate(-808 -165)">
+          <g class="pulse" filter="url(#softGlow)">
+            <use href="#codeGlyph" stroke="#DCCAFF" stroke-width="16"/>
           </g>
         </g>
-        <text x="34" y="100" font-size="78" font-weight="900" fill="#FFFFFF" letter-spacing="-3">zentra</text>
-        <text x="38" y="140" font-size="28" class="serif" fill="#FFE066">Thanks for stopping by.</text>
+        <path class="tw" d="M756 46 l2 4.6 4.6 2 -4.6 2 -2 4.6 -2 -4.6 -4.6 -2 4.6 -2 Z" fill="#FFFFFF" opacity=".7"/>
+        <circle cx="964" cy="128" r="2.4" fill="#FFFFFF" opacity=".5"/>
+        <circle cx="806" cy="140" r="2" fill="#FFFFFF" opacity=".4"/>
+        <text x="36" y="100" font-size="86" font-weight="900" fill="#FFFFFF" letter-spacing="-3.5">zentra</text>
+        <text x="40" y="142" font-size="26" class="serif" fill="#FFE066">Thanks for stopping by.</text>
       </g>
+      <rect width="1000" height="170" rx="28" fill="none" stroke="#FFFFFF" stroke-opacity=".08"/>
     </g>
   </g>
 </svg>
