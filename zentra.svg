@@ -306,7 +306,7 @@
         <text class="mono" x="36" y="84" font-size="19" fill="#F5F3FF" clip-path="url(#typeLine1)">$ whoami</text>
         <text class="mono" x="36" y="112" font-size="19" fill="#FFE066" clip-path="url(#typeLine2)">coder , ai engineer</text>
         <text class="mono" x="36" y="140" font-size="19" fill="#F5F3FF" clip-path="url(#typeLine3)">$ ls languages/</text>
-        <text class="mono" x="36" y="168" font-size="19" fill="#5EEAD4" clip-path="url(#typeLine4)">javascript c++ lua python sql</text>
+        <text class="mono" x="36" y="168" font-size="19" fill="#5EEAD4" clip-path="url(#typeLine4)">javascript c++ lua python</text>
         <text class="mono" x="36" y="196" font-size="19" fill="#F5F3FF">$</text>
         <rect class="caret" x="56" y="180" width="10" height="20" fill="#F5F3FF"/>
       </g>
