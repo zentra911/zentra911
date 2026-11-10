@@ -209,8 +209,8 @@
     <text x="108" y="272" class="word w0" fill="url(#gW1)">JavaScript</text>
     <text x="108" y="272" class="word w1" fill="url(#gW2)">Lua</text>
     <text x="108" y="272" class="word w2" fill="url(#gW3)">Python</text>
-    <text x="108" y="272" class="word w2" fill="url(#gW3)">Sql</text>
-    <text x="108" y="272" class="word w3" fill="url(#gW4)">C++</text>
+    <text x="108" y="272" class="word w3" fill="url(#gW4)">Sql</text>
+    <text x="108" y="272" class="word w4" fill="url(#gW5)">C++</text>
   </g>
 
   <g class="rise" style="animation-delay:.1s">
