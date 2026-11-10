@@ -205,10 +205,11 @@
   </g>
 
   <g class="rise" style="animation-delay:.18s">
-    <text x="36" y="272" font-size="30" class="serif" fill="#FFFFFF" fill-opacity=".9">I write</text>
+    <text x="36" y="272" font-size="30" class="serif" fill="#FFFFFF" fill-opacity=".9">I use</text>
     <text x="150" y="272" class="word w0" fill="url(#gW1)">JavaScript</text>
     <text x="150" y="272" class="word w1" fill="url(#gW2)">Lua</text>
     <text x="150" y="272" class="word w2" fill="url(#gW3)">Python</text>
+    <text x="150" y="272" class="word w2" fill="url(#gW3)">Sql</text>
     <text x="150" y="272" class="word w3" fill="url(#gW4)">C++</text>
   </g>
 
@@ -304,9 +305,9 @@
         <circle cx="84" cy="36" r="6.5" fill="#28C840"/>
         <text class="mono" x="416" y="42" font-size="13" fill="#6B7280">bash</text>
         <text class="mono" x="36" y="84" font-size="19" fill="#F5F3FF" clip-path="url(#typeLine1)">$ whoami</text>
-        <text class="mono" x="36" y="112" font-size="19" fill="#FFE066" clip-path="url(#typeLine2)">coder</text>
+        <text class="mono" x="36" y="112" font-size="19" fill="#FFE066" clip-path="url(#typeLine2)">coder , ai engineer</text>
         <text class="mono" x="36" y="140" font-size="19" fill="#F5F3FF" clip-path="url(#typeLine3)">$ ls languages/</text>
-        <text class="mono" x="36" y="168" font-size="19" fill="#5EEAD4" clip-path="url(#typeLine4)">javascript c++ lua python</text>
+        <text class="mono" x="36" y="168" font-size="19" fill="#5EEAD4" clip-path="url(#typeLine4)">javascript c++ lua python sql</text>
         <text class="mono" x="36" y="196" font-size="19" fill="#F5F3FF">$</text>
         <rect class="caret" x="56" y="180" width="10" height="20" fill="#F5F3FF"/>
       </g>
@@ -321,7 +322,7 @@
       <rect x="34" y="42" width="46" height="5" rx="2.5" fill="#D61FBF"/>
       <text x="34" y="92" font-size="42" font-weight="900" fill="#0D0B1E" letter-spacing="-1.4">Ai Engineer</text>
       <text x="34" y="146" font-size="46" class="serif" fill="#D61FBF">from Iraq.</text>
-      <text x="34" y="188" font-size="18" fill="#0D0B1E" fill-opacity=".68">My tools are Node.js, discord.js, Express and Git,</text>
+      <text x="34" y="188" font-size="18" fill="#0D0B1E" fill-opacity=".68">a 17 boy from iraq and ai engineer same time,</text>
       <text x="34" y="212" font-size="18" fill="#0D0B1E" fill-opacity=".68">all written in Vscodium.</text>
     </g>
     <rect y="576" width="600" height="240" rx="28" fill="none" stroke="#0D0B1E" stroke-opacity=".06"/>
